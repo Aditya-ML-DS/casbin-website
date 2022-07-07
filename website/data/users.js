@@ -159,4 +159,10 @@ module.exports = [
     infoLink: "https://apachecon.com/acasia2021/sessions/1049.html",
     pinned: true,
   },
+   {
+    caption: "GAMUT",
+    image: "https://gamut.media/wp-content/uploads/2019/05/Gamut_Logo.jpg",
+    infoLink: "https://gamut.media/",
+    pinned: true,
+  }
 ];
